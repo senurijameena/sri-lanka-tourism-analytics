@@ -102,20 +102,7 @@ This project:
 
 ---
 
-## 📁 Repository Structure
 
-srilanka-tourism-dashboard/
-│
-├── data/
-│ ├── raw/ # Original PDFs (not included for size)
-│ ├── processed/
-│ │ └── sri_lanka_tourism_raw_data_FINAL.xlsx
-│ └── README.md # Data dictionary
-│
-├── powerbi/
-│ └── SriLanka_Tourism_Dashboard.pbix
-│
-├── docs/
 │ ├── dashboard-preview.png
 │ ├── data-model.png
 │ └── methodology.md
