@@ -103,9 +103,3 @@ This project:
 ---
 
 
-│ ├── dashboard-preview.png
-│ ├── data-model.png
-│ └── methodology.md
-│
-├── README.md
-└── LICENSE
