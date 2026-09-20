@@ -103,25 +103,22 @@ This project:
 ---
 
 ## 📁 Repository Structure
-
-/data
-  sri_lanka_tourism_raw_data_FINAL.xlsx   - initial data extraction from all 32 monthly PDF reports
-  sri_lanka_tourism_cleaned.xlsx          - after standardizing inconsistent naming (e.g. country/airline name variants)
-  raw_monthly_summary.csv                 - cleaned tables exported for MySQL import
-  raw_region.csv
-  raw_top_markets.csv
-  raw_top_markets_annual.csv
-  raw_purpose.csv
-  raw_airports.csv
-  raw_airlines.csv
-
-/sql
-  01_create_schema.sql        - database and table definitions
-  02_load_data.sql            - loads the cleaned CSVs into MySQL
-  03_analysis_queries.sql     - SQL queries answering the business questions above
-
-/dashboard
-  sri_lanka_tourism_dashboard.pbix
+- **/data**
+  - `sri_lanka_tourism_raw_data_FINAL.xlsx` — initial data extraction from all 32 monthly PDF reports
+  - `sri_lanka_tourism_cleaned.xlsx` — after standardizing inconsistent naming (country/airline name variants)
+  - `raw_monthly_summary.csv` — cleaned tables exported for MySQL import
+  - `raw_region.csv`
+  - `raw_top_markets.csv`
+  - `raw_top_markets_annual.csv`
+  - `raw_purpose.csv`
+  - `raw_airports.csv`
+  - `raw_airlines.csv`
+- **/sql**
+  - `01_create_schema.sql` — database and table definitions
+  - `02_load_data.sql` — loads the cleaned CSVs into MySQL
+  - `03_analysis_queries.sql` — SQL queries answering the business questions above
+- **/dashboard**
+  - `sri_lanka_tourism_dashboard.pbix`
 
 README.md
 ---
