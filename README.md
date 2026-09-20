@@ -102,6 +102,28 @@ This project:
 
 ---
 
+## 📁 Repository Structure
+
+/data
+  sri_lanka_tourism_raw_data_FINAL.xlsx         - initial data extraction from all 32 monthly PDF reports
+  sri_lanka_tourism_cleaned.xlsx                - after standardizing inconsistent naming (e.g. country/airline name variants)
+  raw_monthly_summary.csv                       - cleaned tables exported for MySQL import
+  raw_region.csv
+  raw_top_markets.csv
+  raw_top_markets_annual.csv
+  raw_purpose.csv
+  raw_airports.csv
+  raw_airlines.csv
+/sql
+  01_create_schema.sql                          - database and table definitions
+  02_load_data.sql                              - loads the cleaned CSVs into MySQL
+  03_analysis_queries.sql                       - SQL queries answering the business questions above
+/dashboard
+  sri_lanka_tourism_dashboard.pbix
+README.md
+
+---
+
 ## 🧹 Data Cleaning Notes
 
 The raw extraction **(sri_lanka_tourism_raw_data_FINAL.xlsx)** contained several naming inconsistencies across reports published over 32 months, since SLTDA's own formatting varied slightly year to year — for example:
@@ -110,6 +132,6 @@ The raw extraction **(sri_lanka_tourism_raw_data_FINAL.xlsx)** contained several
 -**Doha** vs **Doha Qatar**
 -Four different spellings of **SriLankan Airlines** across different reports
 
-These were standardized in **sri_lanka_tourism_cleaned** before loading into SQL, so downstream totals and charts aren't silently split across duplicate categories.
+These were standardized in **sri_lanka_tourism_cleaned.xlsx** before loading into SQL, so downstream totals and charts aren't silently split across duplicate categories.
 
 ---
