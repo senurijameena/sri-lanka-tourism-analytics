@@ -102,4 +102,14 @@ This project:
 
 ---
 
+## 🧹 Data Cleaning Notes
 
+The raw extraction (raw_data_FINAL.xlsx) contained several naming inconsistencies across reports published over 32 months, since SLTDA's own formatting varied slightly year to year — for example:
+
+-Russia vs Russian Federation
+-Doha vs Doha Qatar
+-Four different spellings of SriLankan Airlines across different reports
+
+These were standardized in cleaned_data.xlsx before loading into SQL, so downstream totals and charts aren't silently split across duplicate categories.
+
+---
