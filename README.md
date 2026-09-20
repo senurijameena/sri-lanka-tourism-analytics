@@ -120,7 +120,8 @@ This project:
 - **/dashboard**
   - `sri_lanka_tourism_dashboard.pbix`
 
-README.md
+- **/README.md**
+
 ---
 
 ## 🧹 Data Cleaning Notes
