@@ -1,0 +1,353 @@
+Year,Month_Num,Month_Name,Airport,Pct_Share
+2024,1,January,Dubai,14
+2024,1,January,Doha,13
+2024,1,January,Chennai,8
+2024,1,January,Moscow,6
+2024,1,January,Abu Dhabi,4
+2024,1,January,Mumbai,4
+2024,1,January,London,3
+2024,1,January,Bangalore,3
+2024,1,January,Singapore,3
+2024,1,January,Sharjah,3
+2024,1,January,Others,17
+2024,2,February,Dubai,14
+2024,2,February,Doha,13
+2024,2,February,Chennai,7
+2024,2,February,Moscow,5
+2024,2,February,Abu Dhabi,4
+2024,2,February,Mumbai,4
+2024,2,February,London,4
+2024,2,February,Kuala Lumpur,4
+2024,2,February,Singapore,3
+2024,2,February,Sharjah,3
+2024,2,February,Others,19
+2024,3,March,Dubai,14
+2024,3,March,Doha,12
+2024,3,March,Chennai,8
+2024,3,March,Moscow,5
+2024,3,March,Abu Dhabi,4
+2024,3,March,Mumbai,3
+2024,3,March,London,3
+2024,3,March,Singapore,3
+2024,3,March,Kuala Lumpur,3
+2024,3,March,Sharjah,3
+2024,3,March,Others,18
+2024,4,April,Dubai,15
+2024,4,April,Doha,11
+2024,4,April,Chennai,7
+2024,4,April,Abu Dhabi,4
+2024,4,April,Moscow,4
+2024,4,April,Bangalore,4
+2024,4,April,Mumbai,3
+2024,4,April,Singapore,3
+2024,4,April,Kuala Lumpur,3
+2024,4,April,Delhi,3
+2024,4,April,Others,17
+2024,5,May,Dubai,13
+2024,5,May,Chennai,11
+2024,5,May,Doha,9
+2024,5,May,Bangalore,6
+2024,5,May,Male,5
+2024,5,May,Abu Dhabi,5
+2024,5,May,Mumbai,5
+2024,5,May,Delhi,4
+2024,5,May,Kuala Lumpur,4
+2024,5,May,Singapore,4
+2024,5,May,Others,12
+2024,6,June,Dubai,15
+2024,6,June,Doha,9
+2024,6,June,Chennai,9
+2024,6,June,Abu Dhabi,7
+2024,6,June,Delhi,6
+2024,6,June,Singapore,5
+2024,6,June,Kuala Lumpur,5
+2024,6,June,Mumbai,4
+2024,6,June,Bangalore,4
+2024,6,June,London,4
+2024,6,June,Others,9
+2024,7,July,Dubai,17
+2024,7,July,Doha,13
+2024,7,July,Chennai,9
+2024,7,July,Abu Dhabi,8
+2024,7,July,Delhi,5
+2024,7,July,Mumbai,5
+2024,7,July,Bangalore,4
+2024,7,July,Kuala Lumpur,4
+2024,7,July,Singapore,3
+2024,7,July,Istanbul,3
+2024,7,July,Others,10
+2024,8,August,Dubai,16
+2024,8,August,Doha,12
+2024,8,August,Chennai,9
+2024,8,August,Abu Dhabi,9
+2024,8,August,Delhi,5
+2024,8,August,Mumbai,4
+2024,8,August,Bangalore,4
+2024,8,August,Kuala Lumpur,4
+2024,8,August,Singapore,4
+2024,8,August,Istanbul,3
+2024,8,August,Others,9
+2024,9,September,Dubai,14
+2024,9,September,Doha,10
+2024,9,September,Abu Dhabi,10
+2024,9,September,Chennai,9
+2024,9,September,Delhi,4
+2024,9,September,Kuala Lumpur,4
+2024,9,September,Bangalore,4
+2024,9,September,Singapore,4
+2024,9,September,Mumbai,3
+2024,9,September,Istanbul,3
+2024,9,September,Others,10
+2024,10,October,Dubai,13
+2024,10,October,Chennai,10
+2024,10,October,Doha,10
+2024,10,October,Abu Dhabi,8
+2024,10,October,Bangalore,6
+2024,10,October,Mumbai,4
+2024,10,October,Hyderabad,4
+2024,10,October,Delhi,4
+2024,10,October,London,4
+2024,10,October,Singapore,3
+2024,10,October,Others,10
+2024,11,November,Dubai,13
+2024,11,November,Doha,9
+2024,11,November,Chennai,8
+2024,11,November,Abu Dhabi,8
+2024,11,November,Moscow,7
+2024,11,November,Mumbai,5
+2024,11,November,Bangalore,4
+2024,11,November,Delhi,4
+2024,11,November,Singapore,3
+2024,11,November,London,3
+2024,11,November,Others,16
+2024,12,December,Dubai,12
+2024,12,December,Doha,9
+2024,12,December,Chennai,8
+2024,12,December,Abu Dhabi,6
+2024,12,December,Moscow,5
+2024,12,December,Mumbai,5
+2024,12,December,Bangalore,4
+2024,12,December,Singapore,4
+2024,12,December,Delhi,4
+2024,12,December,Sharjah,4
+2024,12,December,Others,18
+2025,1,January,Dubai,12
+2025,1,January,Doha,11
+2025,1,January,Abu Dhabi,7
+2025,1,January,Chennai,7
+2025,1,January,Moscow,4
+2025,1,January,Mumbai,4
+2025,1,January,Bangalore,4
+2025,1,January,Singapore,3
+2025,1,January,Sharjah,3
+2025,1,January,London,3
+2025,1,January,Others,18
+2025,2,February,Dubai,13
+2025,2,February,Doha,13
+2025,2,February,Abu Dhabi,8
+2025,2,February,Chennai,7
+2025,2,February,Mumbai,4
+2025,2,February,Moscow,4
+2025,2,February,Singapore,4
+2025,2,February,Bangalore,3
+2025,2,February,London,3
+2025,2,February,Sharjah,3
+2025,2,February,Others,18
+2025,3,March,Dubai,13
+2025,3,March,Doha,11
+2025,3,March,Abu Dhabi,8
+2025,3,March,Chennai,7
+2025,3,March,Moscow,4
+2025,3,March,Mumbai,4
+2025,3,March,Bangalore,4
+2025,3,March,Sharjah,4
+2025,3,March,Singapore,4
+2025,3,March,London,3
+2025,3,March,Others,18
+2025,4,April,Dubai,12
+2025,4,April,Doha,9
+2025,4,April,Chennai,8
+2025,4,April,Abu Dhabi,8
+2025,4,April,Bangalore,6
+2025,4,April,Mumbai,6
+2025,4,April,Singapore,4
+2025,4,April,Delhi,4
+2025,4,April,Kuala Lumpur,3
+2025,4,April,London,3
+2025,4,April,Others,13
+2025,5,May,Chennai,14
+2025,5,May,Dubai,8
+2025,5,May,Mumbai,7
+2025,5,May,Abu Dhabi,7
+2025,5,May,Doha,7
+2025,5,May,Bangalore,6
+2025,5,May,Delhi,5
+2025,5,May,Singapore,4
+2025,5,May,Kuala Lumpur,4
+2025,5,May,Hyderabad,4
+2025,5,May,Others,13
+2025,6,June,Dubai,13
+2025,6,June,Abu Dhabi,10
+2025,6,June,Chennai,9
+2025,6,June,Doha,8
+2025,6,June,Delhi,5
+2025,6,June,Singapore,5
+2025,6,June,Mumbai,5
+2025,6,June,Bangalore,4
+2025,6,June,Kuala Lumpur,4
+2025,6,June,London,4
+2025,6,June,Others,10
+2025,7,July,Dubai,15
+2025,7,July,Doha,13
+2025,7,July,Abu Dhabi,9
+2025,7,July,Chennai,8
+2025,7,July,Delhi,5
+2025,7,July,Mumbai,4
+2025,7,July,Kuala Lumpur,4
+2025,7,July,Singapore,4
+2025,7,July,Sharjah,4
+2025,7,July,Istanbul,3
+2025,7,July,Others,10
+2025,8,August,Doha,13
+2025,8,August,Dubai,12
+2025,8,August,Chennai,9
+2025,8,August,Abu Dhabi,9
+2025,8,August,Mumbai,5
+2025,8,August,Delhi,5
+2025,8,August,Kuala Lumpur,4
+2025,8,August,Bangalore,4
+2025,8,August,Singapore,4
+2025,8,August,Sharjah,4
+2025,8,August,Others,11
+2025,9,September,Chennai,12
+2025,9,September,Doha,11
+2025,9,September,Dubai,9
+2025,9,September,Abu Dhabi,8
+2025,9,September,Mumbai,6
+2025,9,September,Bangalore,6
+2025,9,September,Delhi,5
+2025,9,September,Kuala Lumpur,4
+2025,9,September,Singapore,4
+2025,9,September,London,3
+2025,9,September,Others,8
+2025,10,October,Chennai,10
+2025,10,October,Doha,10
+2025,10,October,Dubai,9
+2025,10,October,Abu Dhabi,8
+2025,10,October,Mumbai,6
+2025,10,October,Bangalore,5
+2025,10,October,Delhi,5
+2025,10,October,Singapore,4
+2025,10,October,Kuala Lumpur,4
+2025,10,October,Istanbul,4
+2025,10,October,Others,10
+2025,11,November,Dubai,12
+2025,11,November,Doha,9
+2025,11,November,Abu Dhabi,8
+2025,11,November,Chennai,8
+2025,11,November,Mumbai,5
+2025,11,November,Bangalore,5
+2025,11,November,Delhi,4
+2025,11,November,Istanbul,4
+2025,11,November,Sharjah,4
+2025,11,November,Kuala Lumpur,3
+2025,11,November,Others,16
+2025,12,December,Dubai,11
+2025,12,December,Doha,9
+2025,12,December,Chennai,8
+2025,12,December,Abu Dhabi,7
+2025,12,December,Mumbai,5
+2025,12,December,Bangalore,4
+2025,12,December,Delhi,4
+2025,12,December,Sharjah,4
+2025,12,December,Kuala Lumpur,4
+2025,12,December,Singapore,3
+2025,12,December,Others,18
+2026,1,January,Dubai,13
+2026,1,January,Doha,10
+2026,1,January,Abu Dhabi,7
+2026,1,January,Chennai,7
+2026,1,January,Mumbai,5
+2026,1,January,Delhi,5
+2026,1,January,Bangalore,4
+2026,1,January,Istanbul,4
+2026,1,January,Sharjah,4
+2026,1,January,Kuala Lumpur,4
+2026,1,January,Others,16
+2026,2,February,Dubai,12
+2026,2,February,Doha,11
+2026,2,February,Abu Dhabi,7
+2026,2,February,Chennai,6
+2026,2,February,Mumbai,5
+2026,2,February,Kuala Lumpur,4
+2026,2,February,Istanbul,4
+2026,2,February,Delhi,4
+2026,2,February,Bangalore,4
+2026,2,February,Singapore,4
+2026,2,February,Others,18
+2026,3,March,Chennai,10
+2026,3,March,Mumbai,7
+2026,3,March,Bangalore,6
+2026,3,March,Delhi,6
+2026,3,March,Istanbul,6
+2026,3,March,Kuala Lumpur,6
+2026,3,March,Singapore,5
+2026,3,March,Dubai,5
+2026,3,March,London,5
+2026,3,March,Moscow,5
+2026,3,March,Others,17
+2026,4,April,Chennai,9
+2026,4,April,Mumbai,8
+2026,4,April,Delhi,8
+2026,4,April,Bangalore,7
+2026,4,April,Dubai,5
+2026,4,April,Singapore,5
+2026,4,April,Kuala Lumpur,5
+2026,4,April,Istanbul,5
+2026,4,April,Moscow,4
+2026,4,April,London,3
+2026,4,April,Others,15
+2026,5,May,Chennai,12
+2026,5,May,Delhi,8
+2026,5,May,Mumbai,8
+2026,5,May,Bangalore,7
+2026,5,May,Dubai,7
+2026,5,May,Abu Dhabi,5
+2026,5,May,Kuala Lumpur,5
+2026,5,May,Singapore,4
+2026,5,May,Hyderabad,4
+2026,5,May,Doha,4
+2026,5,May,Others,14
+2026,6,June,Delhi,10
+2026,6,June,Chennai,9
+2026,6,June,Doha,8
+2026,6,June,Mumbai,7
+2026,6,June,Abu Dhabi,7
+2026,6,June,Bangalore,6
+2026,6,June,Dubai,6
+2026,6,June,Singapore,5
+2026,6,June,Kuala Lumpur,5
+2026,6,June,Istanbul,5
+2026,6,June,Others,10
+2026,7,July,Dubai,11
+2026,7,July,Doha,11
+2026,7,July,Abu Dhabi,7
+2026,7,July,Chennai,7
+2026,7,July,Delhi,6
+2026,7,July,Mumbai,6
+2026,7,July,Istanbul,5
+2026,7,July,Kuala Lumpur,4
+2026,7,July,Bangalore,4
+2026,7,July,Singapore,4
+2026,7,July,Others,11
+2026,8,August,Doha,10
+2026,8,August,Dubai,10
+2026,8,August,Abu Dhabi,8
+2026,8,August,Chennai,7
+2026,8,August,Mumbai,6
+2026,8,August,Delhi,6
+2026,8,August,Kuala Lumpur,4
+2026,8,August,Istanbul,4
+2026,8,August,Bangalore,4
+2026,8,August,Singapore,4
+2026,8,August,Others,13

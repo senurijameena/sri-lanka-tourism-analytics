@@ -1,0 +1,349 @@
+Year,Month_Num,Month_Name,Airline,Pct_Share
+2024,1,January,SriLankan Airlines,25
+2024,1,January,Qatar Airways,13
+2024,1,January,Emirates,10
+2024,1,January,IndiGo,6
+2024,1,January,Fly Dubai,4
+2024,1,January,Red Wings Airlines,4
+2024,1,January,Rossiya Airlines,4
+2024,1,January,Air Arabia,3
+2024,1,January,Azur Air,3
+2024,1,January,China Eastern Airlines,3
+2024,1,January,Others,25
+2024,2,February,SriLankan Airlines,25
+2024,2,February,Qatar Airways,13
+2024,2,February,Emirates,9
+2024,2,February,IndiGo,6
+2024,2,February,Fly Dubai,4
+2024,2,February,Air Arabia,4
+2024,2,February,Red Wings Airlines,4
+2024,2,February,State Transport Russia,3
+2024,2,February,Etihad Airways,3
+2024,2,February,China Eastern Airlines,3
+2024,2,February,Others,26
+2024,3,March,SriLankan Airlines,23
+2024,3,March,Qatar Airways,12
+2024,3,March,Emirates,9
+2024,3,March,IndiGo,7
+2024,3,March,Red Wings Airlines,4
+2024,3,March,Fly Dubai,4
+2024,3,March,State Transport Russia,4
+2024,3,March,Air Arabia,3
+2024,3,March,Etihad Airways,3
+2024,3,March,China Eastern Airlines,3
+2024,3,March,Others,28
+2024,4,April,SriLankan Airlines,23
+2024,4,April,Qatar Airways,11
+2024,4,April,Emirates,9
+2024,4,April,IndiGo,8
+2024,4,April,Fly Dubai,5
+2024,4,April,Red Wings Airlines,5
+2024,4,April,Etihad Airways,4
+2024,4,April,Air India,3
+2024,4,April,China Eastern Airlines,3
+2024,4,April,Air Arabia,3
+2024,4,April,Others,26
+2024,5,May,SriLankan Airlines,27
+2024,5,May,IndiGo,12
+2024,5,May,Emirates,9
+2024,5,May,Qatar Airways,8
+2024,5,May,Air India,6
+2024,5,May,Etihad Airways,5
+2024,5,May,China Eastern Airlines,4
+2024,5,May,Fly Dubai,3
+2024,5,May,Singapore Airlines,3
+2024,5,May,State Transport Russia,2
+2024,5,May,Others,21
+2024,6,June,SriLankan Airlines,27
+2024,6,June,IndiGo,10
+2024,6,June,Emirates,10
+2024,6,June,Qatar Airways,9
+2024,6,June,Etihad Airways,7
+2024,6,June,Air India,5
+2024,6,June,Fly Dubai,4
+2024,6,June,China Eastern Airlines,4
+2024,6,June,Air Asia,3
+2024,6,June,Singapore Airlines,3
+2024,6,June,Others,18
+2024,7,July,SriLankan Airlines,25
+2024,7,July,Qatar Airways,13
+2024,7,July,Emirates,11
+2024,7,July,IndiGo,8
+2024,7,July,Etihad Airways,7
+2024,7,July,Air India,5
+2024,7,July,Fly Dubai,5
+2024,7,July,China Eastern Airlines,3
+2024,7,July,Turkish Airline,3
+2024,7,July,Air Asia,2
+2024,7,July,Others,18
+2024,8,August,SriLankan Airlines,25
+2024,8,August,Qatar Airways,12
+2024,8,August,IndiGo,12
+2024,8,August,Emirates,9
+2024,8,August,Etihad Airways,8
+2024,8,August,Air India,6
+2024,8,August,Fly Dubai,4
+2024,8,August,Air Arabia,4
+2024,8,August,Turkish Airline,3
+2024,8,August,China Eastern Airlines,3
+2024,8,August,Others,14
+2024,9,September,SriLankan Airlines,27
+2024,9,September,IndiGo,10
+2024,9,September,Qatar Airways,10
+2024,9,September,Emirates,9
+2024,9,September,Etihad Airways,9
+2024,9,September,Fly Dubai,5
+2024,9,September,Air India,4
+2024,9,September,China Eastern Airlines,4
+2024,9,September,Turkish Airline,3
+2024,9,September,Singapore Airlines,3
+2024,9,September,Others,17
+2024,10,October,SriLankan Airlines,28
+2024,10,October,IndiGo,12
+2024,10,October,Qatar Airways,10
+2024,10,October,Emirates,8
+2024,10,October,Etihad Airways,8
+2024,10,October,Air India,4
+2024,10,October,Fly Dubai,4
+2024,10,October,Turkish Airline,3
+2024,10,October,China Eastern Airlines,3
+2024,10,October,Air Arabia,3
+2024,10,October,Others,17
+2024,11,November,SriLankan Airlines,23
+2024,11,November,IndiGo,10
+2024,11,November,Qatar Airways,9
+2024,11,November,Emirates,7
+2024,11,November,Etihad Airways,7
+2024,11,November,Red Wings Airlines,6
+2024,11,November,Fly Dubai,4
+2024,11,November,Air India,4
+2024,11,November,Aeroflot,4
+2024,11,November,Air Arabia,3
+2024,11,November,Others,23
+2024,12,December,SriLankan Airlines,25
+2024,12,December,IndiGo,9
+2024,12,December,Qatar Airways,8
+2024,12,December,Emirates,7
+2024,12,December,Etihad Airways,5
+2024,12,December,Red Wings Airlines,4
+2024,12,December,Air India,4
+2024,12,December,Fly Dubai,4
+2024,12,December,Others,34
+2025,1,January,SriLankan Airlines,22
+2025,1,January,Qatar Airways,11
+2025,1,January,Emirates,9
+2025,1,January,IndiGo,9
+2025,1,January,Etihad Airways,6
+2025,1,January,Fly Dubai,4
+2025,1,January,Red Wings Airlines,4
+2025,1,January,Air India,4
+2025,1,January,Air Arabia,3
+2025,1,January,Turkish Airline,3
+2025,1,January,Others,25
+2025,2,February,SriLankan Airlines,22
+2025,2,February,Qatar Airways,12
+2025,2,February,Emirates,10
+2025,2,February,IndiGo,8
+2025,2,February,Etihad Airways,7
+2025,2,February,Air India,4
+2025,2,February,Fly Dubai,4
+2025,2,February,Red Wings Airlines,4
+2025,2,February,Aeroflot,3
+2025,2,February,Turkish Airline,3
+2025,2,February,Others,23
+2025,3,March,SriLankan Airlines,21
+2025,3,March,Qatar Airways,11
+2025,3,March,Emirates,10
+2025,3,March,IndiGo,8
+2025,3,March,Etihad Airways,7
+2025,3,March,Red Wings Airlines,5
+2025,3,March,Air India,4
+2025,3,March,Air Arabia,4
+2025,3,March,Fly Dubai,3
+2025,3,March,Aeroflot,3
+2025,3,March,Others,24
+2025,4,April,SriLankan Airlines,27
+2025,4,April,IndiGo,11
+2025,4,April,Qatar Airways,9
+2025,4,April,Emirates,9
+2025,4,April,Etihad Airways,7
+2025,4,April,Air India,6
+2025,4,April,Fly Dubai,3
+2025,4,April,Air Arabia,3
+2025,4,April,Red Wings Airlines,3
+2025,4,April,Turkish Airline,3
+2025,4,April,Others,19
+2025,5,May,SriLankan Airlines,27
+2025,5,May,IndiGo,19
+2025,5,May,Air India,9
+2025,5,May,Emirates,7
+2025,5,May,Qatar Airways,7
+2025,5,May,Etihad Airways,6
+2025,5,May,China Eastern Airlines,3
+2025,5,May,Singapore Airlines,2
+2025,5,May,Fly Dubai,2
+2025,5,May,Turkish Airline,2
+2025,5,May,Others,16
+2025,6,June,SriLankan Airlines,28
+2025,6,June,IndiGo,12
+2025,6,June,Emirates,10
+2025,6,June,Etihad Airways,9
+2025,6,June,Qatar Airways,7
+2025,6,June,Air India,6
+2025,6,June,Fly Dubai,3
+2025,6,June,Air Arabia,3
+2025,6,June,Singapore Airlines,3
+2025,6,June,China Eastern Airlines,3
+2025,6,June,Others,16
+2025,7,July,SriLankan Airlines,25
+2025,7,July,Emirates,12
+2025,7,July,Qatar Airways,12
+2025,7,July,IndiGo,10
+2025,7,July,Etihad Airways,8
+2025,7,July,Air India,5
+2025,7,July,Air Arabia,4
+2025,7,July,Fly Dubai,4
+2025,7,July,Turkish Airline,3
+2025,7,July,China Eastern Airlines,3
+2025,7,July,Others,14
+2025,8,August,SriLankan Airlines,25
+2025,8,August,Qatar Airways,12
+2025,8,August,IndiGo,12
+2025,8,August,Emirates,9
+2025,8,August,Etihad Airways,8
+2025,8,August,Air India,6
+2025,8,August,Fly Dubai,4
+2025,8,August,Air Arabia,4
+2025,8,August,Turkish Airline,3
+2025,8,August,China Eastern Airlines,3
+2025,8,August,Others,14
+2025,9,September,SriLankan Airlines,27
+2025,9,September,IndiGo,16
+2025,9,September,Qatar Airways,11
+2025,9,September,Emirates,7
+2025,9,September,Etihad Airways,7
+2025,9,September,Air India,7
+2025,9,September,Fly Dubai,3
+2025,9,September,Air Arabia,3
+2025,9,September,Turkish Airline,3
+2025,9,September,China Eastern Airlines,3
+2025,9,September,Others,23
+2025,10,October,SriLankan Airlines,27
+2025,10,October,IndiGo,14
+2025,10,October,Qatar Airways,9
+2025,10,October,Emirates,7
+2025,10,October,Etihad Airways,7
+2025,10,October,Air India,6
+2025,10,October,Turkish Airline,4
+2025,10,October,Fly Dubai,3
+2025,10,October,Air Arabia,3
+2025,10,October,China Eastern Airlines,3
+2025,10,October,Others,27
+2025,11,November,SriLankan Airlines,24
+2025,11,November,IndiGo,12
+2025,11,November,Qatar Airways,9
+2025,11,November,Emirates,8
+2025,11,November,Etihad Airways,7
+2025,11,November,Red Wings Airlines,5
+2025,11,November,Turkish Airline,4
+2025,11,November,Air India,4
+2025,11,November,Fly Dubai,4
+2025,11,November,Air Arabia,4
+2025,11,November,Others,19
+2025,12,December,SriLankan Airlines,26
+2025,12,December,IndiGo,10
+2025,12,December,Qatar Airways,9
+2025,12,December,Emirates,8
+2025,12,December,Etihad Airways,6
+2025,12,December,Fly Dubai,4
+2025,12,December,Red Wings Airlines,4
+2025,12,December,Air India,4
+2025,12,December,Others,29
+2026,1,January,SriLankan Airlines,24
+2026,1,January,Qatar Airways,10
+2026,1,January,IndiGo,10
+2026,1,January,Emirates,9
+2026,1,January,Etihad Airways,6
+2026,1,January,Air India,4
+2026,1,January,Fly Dubai,4
+2026,1,January,Air Arabia,4
+2026,1,January,Turkish Airline,4
+2026,1,January,Red Wings Airlines,4
+2026,1,January,Others,8
+2026,2,February,SriLankan Airlines,24
+2026,2,February,Qatar Airways,11
+2026,2,February,IndiGo,9
+2026,2,February,Emirates,8
+2026,2,February,Etihad Airways,6
+2026,2,February,Fly Dubai,4
+2026,2,February,Air India,4
+2026,2,February,Turkish Airline,4
+2026,2,February,Air Arabia,4
+2026,2,February,Red Wings Airlines,2
+2026,2,February,Others,10
+2026,3,March,SriLankan Airlines,34
+2026,3,March,IndiGo,15
+2026,3,March,Air India,6
+2026,3,March,Turkish Airline,6
+2026,3,March,Emirates,4
+2026,3,March,Red Wings Airlines,4
+2026,3,March,Singapore Airlines,4
+2026,3,March,Aeroflot,4
+2026,3,March,China Eastern Airlines,3
+2026,3,March,Air Asia,3
+2026,3,March,Others,7
+2026,4,April,SriLankan Airlines,30
+2026,4,April,IndiGo,19
+2026,4,April,Air India,6
+2026,4,April,Turkish Airline,5
+2026,4,April,Etihad Airways,4
+2026,4,April,Aeroflot,4
+2026,4,April,Emirates,4
+2026,4,April,China Eastern Airlines,4
+2026,4,April,Singapore Airlines,3
+2026,4,April,Cathay Pacific,3
+2026,4,April,Others,5
+2026,5,May,SriLankan Airlines,29
+2026,5,May,IndiGo,21
+2026,5,May,Air India,7
+2026,5,May,Etihad Airways,5
+2026,5,May,Emirates,5
+2026,5,May,Qatar Airways,4
+2026,5,May,Turkish Airline,4
+2026,5,May,Singapore Airlines,3
+2026,5,May,Cathay Pacific,2
+2026,5,May,China Eastern Airlines,2
+2026,5,May,Others,7
+2026,6,June,SriLankan Airlines,28
+2026,6,June,IndiGo,21
+2026,6,June,Qatar Airways,8
+2026,6,June,Air India,7
+2026,6,June,Etihad Airways,7
+2026,6,June,Emirates,5
+2026,6,June,Turkish Airline,5
+2026,6,June,Singapore Airlines,4
+2026,6,June,Cathay Pacific,3
+2026,6,June,China Eastern Airlines,2
+2026,6,June,Others,4
+2026,7,July,SriLankan Airlines,29
+2026,7,July,IndiGo,12
+2026,7,July,Qatar Airways,10
+2026,7,July,Emirates,10
+2026,7,July,Etihad Airways,7
+2026,7,July,Turkish Airline,5
+2026,7,July,Air India,4
+2026,7,July,Air Arabia,3
+2026,7,July,China Eastern Airlines,3
+2026,7,July,Singapore Airlines,3
+2026,7,July,Others,3
+2026,8,August,SriLankan Airlines,30
+2026,8,August,IndiGo,11
+2026,8,August,Qatar Airways,10
+2026,8,August,Emirates,8
+2026,8,August,Etihad Airways,7
+2026,8,August,Turkish Airline,4
+2026,8,August,Air India,4
+2026,8,August,Air Arabia,3
+2026,8,August,China Eastern Airlines,3
+2026,8,August,Singapore Airlines,3
+2026,8,August,Others,6
